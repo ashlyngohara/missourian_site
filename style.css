@@ -19,6 +19,22 @@ h1 {
 	font-family: 'Open Sans', sans-serif;
 }
 
+a {
+	color:black;
+}
+
+.page_jumps {
+	color:black;
+	text-align:center;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.jump_points {
+	display:inline;
+	text-align:center;
+	padding:20px;
+	font-family: 'Open Sans', sans-serif;
+}
 
 .sectionheader {
 	text-align:left;
