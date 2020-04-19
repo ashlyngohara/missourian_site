@@ -32,8 +32,13 @@ a {
 .jump_points {
 	display:inline;
 	text-align:center;
-	padding:20px;
 	font-family: 'Open Sans', sans-serif;
+	padding:15px;
+	font-size:20px;
+}
+
+mark {
+	background-color:#ffff66;
 }
 
 .sectionheader {
