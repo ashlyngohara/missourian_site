@@ -1,0 +1,21 @@
+h1 {
+	font-size:60px;
+	font-family: 'Quattrocento', serif;
+	text-align:center;
+}
+
+.about {
+	text-align:center;
+	font-family: 'Open Sans', sans-serif;
+}
+
+
+.sectionheader {
+	text-align:left;
+	font-size:40px;
+}
+
+.sectionbody {
+	text-align:left;
+}
+
