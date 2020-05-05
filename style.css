@@ -48,6 +48,7 @@ mark {
 
 .sectionbody {
 	text-align:left;
+	font-size:18px;
 }
 
 /* Add a black background color to the top navigation */
@@ -82,4 +83,9 @@ mark {
 /* Hide the link that should open and close the topnav on small screens */
 .topnav .icon {
   display: none;
+}
+
+.dropdown-content{
+   width: max-content !important;
+   height:auto !important;
 }
